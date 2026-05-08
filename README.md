@@ -2,7 +2,7 @@
 
 Custom Homebrew Tap for **Hora (SI Time Tracker)** desktop applications.
 
-## 🚀 Installation
+## Installation
 
 You can install the **Hora** Cask directly using:
 
@@ -20,7 +20,7 @@ brew tap dholendar27/tap
 brew install --cask hora
 ```
 
-## 🧹 Uninstallation
+## Uninstallation
 
 To cleanly uninstall Hora and remove all local caches/configurations:
 
@@ -28,6 +28,6 @@ To cleanly uninstall Hora and remove all local caches/configurations:
 brew uninstall --cask hora
 ```
 
-## 🛠️ Management and Maintenance
+## Management and Maintenance
 
 This Tap's Casks are automatically updated by the GitHub Actions release workflow in the main [dholendar27/Hora](https://github.com/dholendar27/Hora) repository whenever a new version tag is published.
