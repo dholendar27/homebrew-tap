@@ -6,7 +6,7 @@ cask "hora" do
     url "https://pub-7229178f4aa94482b5b9c586fe4d5087.r2.dev/Hora_#{version}_aarch64.dmg"
   end
   on_arm do
-    sha256 "52553f61bba6c2bc1fb70f16f9553e0fd4baea561fab25629d9d22e2920ace9f"
+    sha256 "f4698146e4bd9d050094ba142a8acb61d83ca83090d636c8cd428135b34f9506"
     url "https://pub-7229178f4aa94482b5b9c586fe4d5087.r2.dev/Hora_#{version}_aarch64.dmg"
   end
 
